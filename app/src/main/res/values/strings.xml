@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fyp</string>
+    <string name="name">name</string>
+    <string name="password" />
+    <string name="success_login_msg">Login successful</string>
+    <string name="login_fail_msg">Please fill any empty fields</string>
+</resources>
